@@ -1,0 +1,22 @@
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets: public repo must only contain templates/examples
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+credentials/
+
+# Generated media/build output
+media/private/
+dist/
+build/
+__pycache__/
+*.py[cod]
