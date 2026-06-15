@@ -55,6 +55,11 @@ Start here:
 
 Aurora is an active private production project. This public repo will be updated with sanitized progress, diagrams, examples, and lessons learned.
 
+### 2026-06-15 sanitized progress note
+
+- Prototyped additional browser-based avatar viewers and local asset packaging workflows for future stream presentation experiments.
+- Continued iterating on the private runtime while keeping production launchers, secrets, logs, and personal viewer data out of the public repo.
+
 ## License
 
 Documentation and example code are released under the MIT License unless noted otherwise. Live2D models, third-party SDKs, voice models, and platform APIs have their own licenses and terms.
